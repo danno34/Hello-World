@@ -13,6 +13,9 @@ int main(int argc, const char * argv[])
 
     // insert code here...
     std::cout << "Hello, World!\n";
+    std::cout << "Take me to your leader!\n";
+    
+    std::cout << "This has been a test of the Commit to GitHub."; //danno34
     return 0;
 }
 
